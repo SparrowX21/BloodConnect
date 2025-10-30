@@ -1,0 +1,195 @@
+[
+  {
+    "zip_code": "75002",
+    "data": [
+      {
+        "name": "Carter BloodCare Allen Donor Center",
+        "address": "1328 W McDermott Dr, Suite 250, Allen, TX 75013",
+        "contact": "214-509-0550",
+        "timings": "Mon-Wed, Fri 8am-5pm; Sat-Sun 8am-2pm",
+        "campaign": "Monthly donor drives and new donor incentives"
+      },
+      {
+        "name": "Allen Red Cross Community Blood Drive",
+        "address": "705 Central Expwy S, Allen, TX 75013",
+        "contact": "1-800-RED CROSS",
+        "timings": "Check website for next community date; usually monthly",
+        "campaign": null
+      }
+    ]
+  },
+  {
+    "zip_code": "75009",
+    "data": [
+      {
+        "name": "Carter BloodCare Celina Blood Drive",
+        "address": "102 N Ohio St, Celina, TX 75009",
+        "contact": "1-800-366-2834",
+        "timings": "Fri 8am-1pm, Sat 2pm-9pm (recurring community drives)",
+        "campaign": "Celina/Prosper community blood drives"
+      }
+    ]
+  },
+  {
+    "zip_code": "75013",
+    "data": [
+      {
+        "name": "Carter BloodCare Allen Donor Center",
+        "address": "1328 W McDermott Dr, Suite 250, Allen, TX 75013",
+        "contact": "214-509-0550",
+        "timings": "Mon-Wed, Fri 8am-5pm; Sat-Sun 8am-2pm",
+        "campaign": "Monthly donor drives and new donor incentives"
+      }
+    ]
+  },
+  {
+    "zip_code": "75023",
+    "data": [
+      {
+        "name": "Plano Red Cross Blood and Platelet Donation Center",
+        "address": "741 Central Expressway Ste 100, Plano, TX 75075",
+        "contact": "1-800-RED CROSS",
+        "timings": "Mon-Tue 11am-7pm; Wed 10am-6pm; Thu 9am-5pm; Fri-Sun 7am-3pm",
+        "campaign": "October blood campaign: 'Give Blood, Save Lives'"
+      }
+    ]
+  },
+  {
+    "zip_code": "75024",
+    "data": [
+      {
+        "name": "Plano Red Cross Blood and Platelet Donation Center",
+        "address": "741 Central Expressway Ste 100, Plano, TX 75075",
+        "contact": "1-800-RED CROSS",
+        "timings": "Mon-Tue 11am-7pm; Wed 10am-6pm; Thu 9am-5pm; Fri-Sun 7am-3pm",
+        "campaign": "October blood campaign: 'Give Blood, Save Lives'"
+      }
+    ]
+  },
+  {
+    "zip_code": "75025",
+    "data": [
+      {
+        "name": "Plano Red Cross Blood and Platelet Donation Center",
+        "address": "741 Central Expressway Ste 100, Plano, TX 75075",
+        "contact": "1-800-RED CROSS",
+        "timings": "Mon-Tue 11am-7pm; Wed 10am-6pm; Thu 9am-5pm; Fri-Sun 7am-3pm",
+        "campaign": "October blood campaign: 'Give Blood, Save Lives'"
+      }
+    ]
+  },
+  {
+    "zip_code": "75026",
+    "data": []
+  },
+  {
+    "zip_code": "75034",
+    "data": [
+      {
+        "name": "Carter BloodCare Frisco Donor Center",
+        "address": "4350 W Main St, Suite 105, Frisco, TX 75034",
+        "contact": "214-217-5690",
+        "timings": "Mon-Wed, Fri 8am-5pm; Thu 11am-8pm; Sun 8am-2pm",
+        "campaign": "Seasonal donor incentives"
+      }
+    ]
+  },
+  {
+    "zip_code": "75035",
+    "data": [
+      {
+        "name": "Carter BloodCare Frisco Donor Center",
+        "address": "4350 W Main St, Suite 105, Frisco, TX 75034",
+        "contact": "214-217-5690",
+        "timings": "Mon-Wed, Fri 8am-5pm; Thu 11am-8pm; Sun 8am-2pm",
+        "campaign": "Seasonal donor incentives"
+      }
+    ]
+  },
+  {
+    "zip_code": "75069",
+    "data": [
+      {
+        "name": "CSL Plasma McKinney",
+        "address": "801 N McDonald St, McKinney, TX 75069",
+        "contact": "469-498-9843",
+        "timings": "Mon-Fri 7am-6pm; Sat 7am-2pm; Sun 7am-3pm",
+        "campaign": null
+      }
+    ]
+  },
+  {
+    "zip_code": "75070",
+    "data": [
+      {
+        "name": "Carter BloodCare McKinney Donor Center",
+        "address": "2950 Craig Dr Suite 102, McKinney, TX 75070",
+        "contact": "214-217-5684",
+        "timings": "Tue-Wed, Fri 8am-5pm; Sat-Sun 8am-2pm; Mon-Thur closed",
+        "campaign": "Help stabilize local blood supply, summer campaign"
+      },
+      {
+        "name": "Baylor Scott & White Medical Center – McKinney",
+        "address": "5252 W University Dr, McKinney, TX 75071",
+        "contact": "972-547-8000",
+        "timings": "Contact hospital for donor event timings",
+        "campaign": "Periodic blood drives; call for schedule"
+      }
+    ]
+  },
+  {
+    "zip_code": "75071",
+    "data": [
+      {
+        "name": "Carter BloodCare McKinney Donor Center",
+        "address": "2950 Craig Dr Suite 102, McKinney, TX 75070",
+        "contact": "214-217-5684",
+        "timings": "Tue-Wed, Fri 8am-5pm; Sat-Sun 8am-2pm; Mon-Thur closed",
+        "campaign": "Help stabilize local blood supply, summer campaign"
+      }
+    ]
+  },
+  {
+    "zip_code": "75074",
+    "data": [
+      {
+        "name": "Carter BloodCare Plano Donor Center",
+        "address": "4701 W Parker Rd, Plano, TX 75093",
+        "contact": "972-612-2098",
+        "timings": "Mon 8am-5pm; Tue 11am-8pm; Wed closed; Thu 8am-5pm; Fri 8am-5pm; Sat-Sun 8am-2pm",
+        "campaign": "Fall donor rewards event"
+      },
+      {
+        "name": "Plano Red Cross Blood and Platelet Donation Center",
+        "address": "741 Central Expressway Ste 100, Plano, TX 75075",
+        "contact": "1-800-RED CROSS",
+        "timings": "Mon-Tue 11am-7pm; Wed 10am-6pm; Thu 9am-5pm; Fri-Sun 7am-3pm",
+        "campaign": "October blood campaign: 'Give Blood, Save Lives'"
+      }
+    ]
+  },
+  {
+    "zip_code": "75075",
+    "data": [
+      {
+        "name": "Plano Red Cross Blood and Platelet Donation Center",
+        "address": "741 Central Expressway Ste 100, Plano, TX 75075",
+        "contact": "1-800-RED CROSS",
+        "timings": "Mon-Tue 11am-7pm; Wed 10am-6pm; Thu 9am-5pm; Fri-Sun 7am-3pm",
+        "campaign": "October blood campaign: 'Give Blood, Save Lives'"
+      }
+    ]
+  },
+  {
+    "zip_code": "75078",
+    "data": [
+      {
+        "name": "Carter BloodCare Celina Community Blood Drive",
+        "address": "102 N Ohio St, Celina, TX 75009",
+        "contact": "1-800-366-2834",
+        "timings": "Fri 8am-1pm, Sat 2pm-9pm",
+        "campaign": "Celina/Prosper community drives"
+      }
+    ]
+  }
+]

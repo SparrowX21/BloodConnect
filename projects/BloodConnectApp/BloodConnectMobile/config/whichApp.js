@@ -1,0 +1,1 @@
+export default 'bloodConnect'; // Variable to change application name bloodConnect vs foodConnect vs anyother Connect family app 
